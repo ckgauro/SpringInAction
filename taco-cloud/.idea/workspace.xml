@@ -4,7 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6fcd0bde-0768-4a66-a0af-2822cd093888" name="Default Changelist" comment="Chp1 completed with TestCase" />
+    <list default="true" id="6fcd0bde-0768-4a66-a0af-2822cd093888" name="Default Changelist" comment="Chp1 completed with TestCase">
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/java/com/gauro/config/WebConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/java/com/gauro/controller/DesignTacoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/java/com/gauro/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/java/com/gauro/domain/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/java/com/gauro/domain/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/java/com/gauro/domain/Taco.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/resources/static/images/TacoCloud.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/resources/static/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/resources/templates/design.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/resources/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ch02/taco-cloud/src/main/resources/templates/orderForm.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ch02/taco-cloud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ch02/taco-cloud/pom.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -214,6 +227,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
