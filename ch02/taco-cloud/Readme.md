@@ -47,5 +47,5 @@ Hibernate Validator.
 
 * View controllers can be used to handle HTTP GET requests for which no model data or processing is required.
 
- In addition to Thymeleaf, Spring supports a variety of view options, including FreeMarker, Groovy Templates, and
+* In addition to Thymeleaf, Spring supports a variety of view options, including FreeMarker, Groovy Templates, and
 Mustache.
