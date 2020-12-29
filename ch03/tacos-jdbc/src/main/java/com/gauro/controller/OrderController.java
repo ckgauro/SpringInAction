@@ -17,7 +17,7 @@ import javax.validation.Valid;
  */
 
 @Controller
-@RequestMapping
+@RequestMapping("/orders")
 @SessionAttributes("order")
 public class OrderController {
 
